@@ -32,7 +32,7 @@ namespace Tutorial.API.Controllers
             await _mQTTService.ConnectAsync();
 
             await _mQTTService.CreateSubscribeOptionsBuilder("mype/test/command/1");
-
+            // ABCXYZ
             return Ok(await _mQTTService.WaitForMessageAsync());
         }
     }
