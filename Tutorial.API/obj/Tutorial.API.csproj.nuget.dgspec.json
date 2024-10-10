@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Tutorial.API.csproj": {}
+    "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.API\\Tutorial.API.csproj": {}
   },
   "projects": {
-    "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Tutorial.API.csproj": {
+    "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.API\\Tutorial.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Tutorial.API.csproj",
+        "projectUniqueName": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.API\\Tutorial.API.csproj",
         "projectName": "Tutorial.API",
-        "projectPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\Tutorial.API.csproj",
+        "projectPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.API\\Tutorial.API.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.API\\obj\\",
+        "outputPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj": {
-                "projectPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj"
+              "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj": {
+                "projectPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj": {
+    "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj",
+        "projectUniqueName": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj",
         "projectName": "Tutorial.Infrastructure",
-        "projectPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj",
+        "projectPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\obj\\",
+        "outputPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -30,14 +30,14 @@ builder.Services.AddSingleton<ISingletonService, SomeService>();
 builder.Services.AddSingleton<ISingletonService, CaptiveDependencyService>();
 
 //Add support to logging with SERILOG
-builder.Host.UseSerilog((context, configuration) => configuration.ReadFrom.Configuration(context.Configuration));
+//builder.Host.UseSerilog((context, configuration) => configuration.ReadFrom.Configuration(context.Configuration));
 
 var app = builder.Build();
 
 app.UseStaticFiles();
 
 //Add support to logging request with SERILOG
-app.UseSerilogRequestLogging();
+//app.UseSerilogRequestLogging();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

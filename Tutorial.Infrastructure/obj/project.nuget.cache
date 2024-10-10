@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hozksn20xHE=",
+  "dgSpecHash": "PiLEVeIJAQY=",
   "success": true,
-  "projectFilePath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj",
+  "projectFilePath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Infrastructure\\Tutorial.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

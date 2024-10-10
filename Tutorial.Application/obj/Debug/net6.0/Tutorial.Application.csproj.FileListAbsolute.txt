@@ -10,3 +10,15 @@ E:\TuanDao\Project\Tutorial\Tutorial.Application\obj\Debug\net6.0\Tutorial.Appli
 E:\TuanDao\Project\Tutorial\Tutorial.Application\obj\Debug\net6.0\refint\Tutorial.Application.dll
 E:\TuanDao\Project\Tutorial\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.pdb
 E:\TuanDao\Project\Tutorial\Tutorial.Application\obj\Debug\net6.0\ref\Tutorial.Application.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\bin\Debug\net6.0\Tutorial.Application.deps.json
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\bin\Debug\net6.0\Tutorial.Application.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\bin\Debug\net6.0\Tutorial.Application.pdb
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.AssemblyInfoInputs.cache
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.AssemblyInfo.cs
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.csproj.CoreCompileInputs.cache
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.sourcelink.json
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\refint\Tutorial.Application.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\Tutorial.Application.pdb
+E:\TuanDao\Project\Tutorial2\Tutorial.Application\obj\Debug\net6.0\ref\Tutorial.Application.dll

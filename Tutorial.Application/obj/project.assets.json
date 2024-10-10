@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Application\\Tutorial.Application.csproj",
+      "projectUniqueName": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Application\\Tutorial.Application.csproj",
       "projectName": "Tutorial.Application",
-      "projectPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Application\\Tutorial.Application.csproj",
+      "projectPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Application\\Tutorial.Application.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "E:\\TuanDao\\Project\\Tutorial\\Tutorial.Application\\obj\\",
+      "outputPath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,3 +11,16 @@ E:\TuanDao\Project\Tutorial\Tutorial.Infrastructure\obj\Debug\net6.0\refint\Tuto
 E:\TuanDao\Project\Tutorial\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.pdb
 E:\TuanDao\Project\Tutorial\Tutorial.Infrastructure\obj\Debug\net6.0\ref\Tutorial.Infrastructure.dll
 E:\TuanDao\Project\Tutorial\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.csproj.AssemblyReference.cache
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\bin\Debug\net6.0\Tutorial.Infrastructure.deps.json
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\bin\Debug\net6.0\Tutorial.Infrastructure.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\bin\Debug\net6.0\Tutorial.Infrastructure.pdb
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.csproj.AssemblyReference.cache
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.AssemblyInfoInputs.cache
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.AssemblyInfo.cs
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.csproj.CoreCompileInputs.cache
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.sourcelink.json
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\refint\Tutorial.Infrastructure.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\Tutorial.Infrastructure.pdb
+E:\TuanDao\Project\Tutorial2\Tutorial.Infrastructure\obj\Debug\net6.0\ref\Tutorial.Infrastructure.dll
