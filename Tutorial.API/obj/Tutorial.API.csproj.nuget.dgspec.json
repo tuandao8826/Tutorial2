@@ -144,6 +144,10 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.7.1207, )"
+            },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
               "version": "[5.0.17, )"

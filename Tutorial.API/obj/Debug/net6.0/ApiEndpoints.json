@@ -88,5 +88,15 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestMQTTController",
+    "Method": "GetDataAsync",
+    "RelativePath": "api/TestMQTT/GetDataAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

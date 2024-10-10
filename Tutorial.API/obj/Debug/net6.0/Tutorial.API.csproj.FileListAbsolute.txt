@@ -130,3 +130,4 @@ E:\TuanDao\Project\Tutorial2\Tutorial.API\obj\Debug\net6.0\refint\Tutorial.API.d
 E:\TuanDao\Project\Tutorial2\Tutorial.API\obj\Debug\net6.0\Tutorial.API.pdb
 E:\TuanDao\Project\Tutorial2\Tutorial.API\obj\Debug\net6.0\Tutorial.API.genruntimeconfig.cache
 E:\TuanDao\Project\Tutorial2\Tutorial.API\obj\Debug\net6.0\ref\Tutorial.API.dll
+E:\TuanDao\Project\Tutorial2\Tutorial.API\bin\Debug\net6.0\MQTTnet.dll
