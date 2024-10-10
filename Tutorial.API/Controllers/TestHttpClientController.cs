@@ -48,8 +48,7 @@ namespace Tutorial.API.Controllers
         [HttpGet("GetDataDefaultClientAsync")]
         public async Task<IActionResult> GetDataDefaultClientAsync()
         {
-            var urlString = "https://raw.githubusercontent.com/xuanthulabnet/jekyll-example/master/images/jekyll-01.png";
-            await _httpClient.GetStringAsync(urlString);
+            var urlString = "http://localhost:5256/WeatherForecast";
 
             var result = await _httpClientSender
                 .WithUri(urlString)

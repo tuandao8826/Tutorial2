@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1RvJdTjRdZQ=",
+  "dgSpecHash": "ddVjNi3Hb8w=",
   "success": true,
   "projectFilePath": "E:\\TuanDao\\Project\\Tutorial2\\Tutorial.API\\Tutorial.API.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\polly\\8.4.2\\polly.8.4.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\polly.core\\8.4.2\\polly.core.8.4.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\serilog\\4.0.2\\serilog.4.0.2.nupkg.sha512",

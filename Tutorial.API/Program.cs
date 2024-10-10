@@ -28,6 +28,7 @@ builder.Services.AddTransient<ITransientService, SomeService>();
 builder.Services.AddScoped<IScopedService, SomeService>();
 builder.Services.AddSingleton<ISingletonService, SomeService>();
 builder.Services.AddSingleton<ISingletonService, CaptiveDependencyService>();
+builder.Services.AddTransient<IMQTTService, MQTTService>();
 
 //Add support to logging with SERILOG
 //builder.Host.UseSerilog((context, configuration) => configuration.ReadFrom.Configuration(context.Configuration));

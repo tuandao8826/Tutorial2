@@ -17,7 +17,7 @@ namespace Tutorial.Infrastructure.Facades.Common.HttpClients.HttpClientHandlers
             var host = request.RequestUri.Host.ToLower();
             var scheme = request.RequestUri.Scheme.ToLower();
 
-            if (scheme == "http")
+            /*if (scheme == "http")
             {
                 response.Content = new ByteArrayContent(Encoding.UTF8.GetBytes("URL không an toàn!"));
                 return await Task.FromResult(response);
@@ -27,7 +27,7 @@ namespace Tutorial.Infrastructure.Facades.Common.HttpClients.HttpClientHandlers
             {
                 response.Content = new ByteArrayContent(Encoding.UTF8.GetBytes("Host không được phép"));
                 return await Task.FromResult(response);
-            }
+            }*/
 
             return await base.SendAsync(request, cancellationToken);
         }
