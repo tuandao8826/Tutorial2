@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestDIController",
+    "Method": "Index",
+    "RelativePath": "api/TestDI/Index1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestDIController",
+    "Method": "Index2",
+    "RelativePath": "api/TestDI/Index2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestDIController",
+    "Method": "Index3",
+    "RelativePath": "api/TestDI/Index3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "GetDataDefaultClientAsync",
+    "RelativePath": "api/TestHttpClient/GetDataDefaultClientAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "GetDataDefaultClientAsync2",
+    "RelativePath": "api/TestHttpClient/GetDataDefaultClientAsync2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "GetDataUseClientAsync",
+    "RelativePath": "api/TestHttpClient/GetDataUseClientAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "PostDataAsync",
+    "RelativePath": "api/TestHttpClient/PostDataAsync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "PostDataAsyncUseClient",
+    "RelativePath": "api/TestHttpClient/PostDataAsyncUseClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tutorial.API.Controllers.TestHttpClientController",
+    "Method": "TestEmpty",
+    "RelativePath": "api/TestHttpClient/TestEmpty",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

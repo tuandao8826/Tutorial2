@@ -1,0 +1,12 @@
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\bin\Debug\net6.0\Tutorial.Domain.deps.json
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\bin\Debug\net6.0\Tutorial.Domain.dll
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\bin\Debug\net6.0\Tutorial.Domain.pdb
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.AssemblyInfoInputs.cache
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.AssemblyInfo.cs
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.csproj.CoreCompileInputs.cache
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.sourcelink.json
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.dll
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\refint\Tutorial.Domain.dll
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\Tutorial.Domain.pdb
+E:\TuanDao\Project\Tutorial\Tutorial.Domain\obj\Debug\net6.0\ref\Tutorial.Domain.dll
